@@ -35,7 +35,7 @@
 
 <p align="center"> Techs that I'm on now 💦</p>
   <p align="center">
-     <img src="https://img.shields.io/badge/Amazon_aws-232F3E?style=flat-square&logo=Amazon_aws&logoColor=white"/></a>&nbsp 
+     <img src="https://img.shields.io/badge/Amazon aws-232F3E?style=flat-square&logo=Amazon aws&logoColor=white"/></a>&nbsp 
      <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a>&nbsp 
 
   </p>
