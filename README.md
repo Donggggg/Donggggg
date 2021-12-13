@@ -4,13 +4,9 @@
   <a href="https://www.instagram.com/d0nggggg/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/d0nggggg/"/></a>
 </p>
 
-## 🥸 Donggggg's Intro 🥸
+## Donggggg's Intro 👋
  
- ### 저는요 👋
-`#속력보다는` `#속도 💨`  
-`#혼자보다는` `#함께 👥`   
-`#결과보다는` `#과정 📶`  
-`#苦盡甘來` `#塞翁之馬`  
+`#苦盡甘來 💪` `#塞翁之馬 🪨`
 
 ---
 
@@ -20,7 +16,6 @@
   <strong>🪐 Languages :</strong>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Typescript-3178c6?style=flat-square&logo=Typescript&logoColor=white"/></a>&nbsp 
   <br>
@@ -33,7 +28,6 @@
   <strong>☀️ FrontEnd :</strong>
    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=Cypress&logoColor=white"/></a>&nbsp
   <br>
@@ -53,4 +47,9 @@
   
 ---
 
-[![Donggggg's github stats](https://github-readme-stats.vercel.app/api?username=Donggggg)](https://github.com/Donggggg/github-readme-stats)  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Donggggg&theme=tokyonight" alt="Donggggg's github stats"/>
+</a>
+<a href="https://solved.ac/ptsaturn68/">
+  <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ptsaturn68" alt="Donggggg's solved.ac profile"/>
+</a>
