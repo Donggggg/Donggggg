@@ -48,8 +48,8 @@
 ---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Donggggg&theme=tokyonight" alt="Donggggg's github stats"/>
+  <img align="center" width="440px" src="https://github-readme-stats.vercel.app/api?username=Donggggg&theme=tokyonight" alt="Donggggg's github stats"/>
 </a>
 <a href="https://solved.ac/ptsaturn68/">
-  <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ptsaturn68" alt="Donggggg's solved.ac profile"/>
+  <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ptsaturn68" alt="Donggggg's solved.ac profile"/>
 </a>
